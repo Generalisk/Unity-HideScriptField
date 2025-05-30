@@ -10,8 +10,8 @@
     "url": "https://generalisk.com"
   },
   "license": "MIT",
-  "licensesUrl": "https://github.com/Generalisk/Unity-CleanBuild/LICENSE",
-  "changelogUrl": "https://github.com/Generalisk/Unity-CleanBuild/releases",
+  "licensesUrl": "https://github.com/Generalisk/Unity-HideScriptField/LICENSE",
+  "changelogUrl": "https://github.com/Generalisk/Unity-HideScriptField/releases",
   "keywords": [
     "editor",
     "inspector",
