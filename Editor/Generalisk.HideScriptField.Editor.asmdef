@@ -1,6 +1,6 @@
 {
     "name": "Generalisk.HideScriptField.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Generalisk.HideScriptField.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

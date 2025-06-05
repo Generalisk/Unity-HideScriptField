@@ -1,15 +1,18 @@
 using UnityEditor;
 using UnityEngine;
 
-[CustomEditor(typeof(Object), true)]
-public class HideScriptField : Editor
+namespace Generalisk.HideSceriptField.Editor
 {
-    public override void OnInspectorGUI()
+    [CustomEditor(typeof(Object), true)]
+    public sealed class HideScriptField : UnityEditor.Editor
     {
-        serializedObject.Update();
-        EditorGUI.BeginChangeCheck();
-        DrawPropertiesExcluding(serializedObject, "m_Script");
-        if (EditorGUI.EndChangeCheck())
-        { serializedObject.ApplyModifiedProperties(); }
+        public override void OnInspectorGUI()
+        {
+            serializedObject.Update();
+            EditorGUI.BeginChangeCheck();
+            DrawPropertiesExcluding(serializedObject, "m_Script");
+            if (EditorGUI.EndChangeCheck())
+            { serializedObject.ApplyModifiedProperties(); }
+        }
     }
 }
