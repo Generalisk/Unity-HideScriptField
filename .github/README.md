@@ -38,6 +38,7 @@ Why does this package exist? Well, it's because my ADHD brain holds A personal g
   - [Method 1](#method-1)
   - [Method 2](#method-2)
 - [Licensing](#licensing)
+- [Contributing](#contributing)
 - [Planned Features](#planned-features)
 
 # Requirements
@@ -81,6 +82,9 @@ There are multiple ways to add this package into your project:
 
 # Licensing
 This package is licenced under the `MIT License`, more info can be found [here](../LICENSE).
+
+# Contributing
+Before you go and make A pull request, please make sure that your request follows our [Contribution Guidelines](CONTRIBUTING.md).
 
 # Planned Features
 - Override Attributes
