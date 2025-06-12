@@ -26,7 +26,7 @@
 
 This simple Unity Package stops the unmodifiable script fields (that appear by default at the top of all your MonoBehaviours and ScriptableObjects) from being rendered.
 
-Why does this package exist? Well, it's because my ADHD brain holds A personal grudge against it's general existence for no apparent reason, that's it...
+Why does this package exist? Well... it's because my ADHD brain holds A personal grudge against it's general existence for no apparent reason, that's literately it...
 
 # Contents
 - [Requirements](#requirements)
