@@ -28,6 +28,7 @@ If applicable, add screenshots or videos to help explain or showcase the problem
  - Architecture: [e.g. x86, x64, arm64]
  - CPU: [e.g. Intel Core i7-9750H CPU]
  - Graphics Card: [e.g. NVIDIA GeForce RTX 4060]
+ - Unity Version: [e.g. 6000.2.0b5, 2020.3.42f1]
 
 **Additional context**
 Add any other context about the problem here.
