@@ -1,6 +1,6 @@
 {
   "name": "com.generalisk.editor.hide-script-field",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Hide Script Field",
   "description": "This simple Unity Package stops the unmodifiable script fields (that appear by default at the top of all your MonoBehaviours and ScriptableObjects) from being rendered.\n\nWhy does this package exist? Well... it's because my ADHD brain holds A personal grudge against it's general existence for no apparent reason, that's literately it...",
   "unity": "2017.1",
